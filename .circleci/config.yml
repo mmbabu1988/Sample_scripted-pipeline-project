@@ -6,8 +6,8 @@ executors:
         auth:
           # ensure you have first added these secrets
           # visit app.circleci.com/settings/project/github/mmbabu1988/Sample_scripted-pipeline-project/environment-variables
-          username: $DOCKER_HUB_USER
-          password: $DOCKER_HUB_PASSWORD
+          username: $mmbabu88
+          password: $Mahesh@123
 jobs:
   my-job-name:
 
