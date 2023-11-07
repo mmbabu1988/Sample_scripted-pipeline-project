@@ -20,6 +20,11 @@ node {
            echo "Releasing the project......."
      
      }
+     stage ('Deliver')
+     {
+           echo "Deliver the project........."
+
+     }     
      
  }
       
